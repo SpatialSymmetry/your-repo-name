@@ -1,0 +1,7 @@
+/* assets/css/fonts.css */
+@font-face {
+  font-family: 'Lalezar-Regula';
+  src: url('~assets/fonts/Lalezar-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
